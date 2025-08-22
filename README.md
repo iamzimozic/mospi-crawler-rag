@@ -2,7 +2,7 @@
 
 An end-to-end web scraper and retrieval-augmented generation (RAG) app for MoSPI press releases. It discovers press-release PDF links, downloads and parses content, extracts one table, stores metadata in SQLite, and indexes text to a local Chroma vector store. A Streamlit UI lets you trigger scraping, view progress, ask questions, and inspect stored data.
 
-##Demo
+## Demo
 
 https://www.youtube.com/watch?v=PwUhBPHbGqo
 
